@@ -38,8 +38,6 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(776, 27);
             textBox1.TabIndex = 1;
-            textBox1.Enter += textBox1_Enter;
-            textBox1.Leave += textBox1_Leave;
             // 
             // textBox2
             // 
